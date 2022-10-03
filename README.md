@@ -2,8 +2,10 @@
 
 #### ENEM 2020
 
-Arquivo `MICRODADOS_ENEM_2020_SC.zip` - Dataset parcial do ENEM 2020, filtrados por estudantes que estudaram em escolas de Santa Catarina.
+Arquivo `MICRODADOS_ENEM_2020_SC.zip` - Dataset parcial do ENEM 2020, filtrados por estudantes de escolas de Santa Catarina.
 Fonte dos dados originais/completos: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem.
+
+Arquivo `Dicionário_Microdados_Enem_2021.xlsx` - Dicionário dos microdados do Enem 2020.
 
 #### Modelo ER Estados, Cidades e Regiões do Brazil
 
