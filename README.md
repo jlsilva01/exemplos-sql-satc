@@ -7,7 +7,7 @@ Fonte dos dados originais/completos: https://www.gov.br/inep/pt-br/acesso-a-info
 
 Arquivo `Dicionário_Microdados_Enem_2021.xlsx` - Dicionário dos microdados do Enem 2021.
 
-#### Modelo ER Estados, Cidades e Regiões do Brazil
+#### Modelo ER Estados, Cidades e Regiões do Brasil
 
 ![image](https://user-images.githubusercontent.com/484662/193600856-93403e39-f52a-4b61-8150-b8d63eef73d5.png)
 
