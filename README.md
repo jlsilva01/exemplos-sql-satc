@@ -1,4 +1,4 @@
-## Scripts e dados de exemplo para prática de DDL + DML
+## Banco de Dados I - Scripts e dados de exemplo para prática de DDL + DML
 
 #### ENEM 2021
 
